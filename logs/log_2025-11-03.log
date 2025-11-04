@@ -1,0 +1,127 @@
+2025-11-03 11:31:31,435 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-03 11:31:34,450 - INFO - Loading faiss with AVX2 support.
+2025-11-03 11:31:34,469 - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-03 11:31:34,472 - INFO - [index_manager] Loaded FAISS index from data/cache_store/semantic_cache.faiss
+2025-11-03 11:33:35,224 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-03 11:33:38,641 - INFO - Loading faiss with AVX2 support.
+2025-11-03 11:33:38,661 - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-03 11:33:38,664 - INFO - [index_manager] Loaded FAISS index from data/cache_store/semantic_cache.faiss
+2025-11-03 11:34:11,116 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-03 11:37:41,309 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-03 11:37:44,861 - INFO - Loading faiss with AVX2 support.
+2025-11-03 11:37:44,881 - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-03 11:37:44,884 - INFO - [index_manager] Loaded FAISS index from /home/minh/project/ship_agent/data/cache_store/semantic_cache.faiss
+2025-11-03 11:40:03,279 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-03 11:40:06,402 - INFO - Loading faiss with AVX2 support.
+2025-11-03 11:40:06,427 - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-03 11:40:06,430 - INFO - [index_manager] Loaded FAISS index from /home/minh/project/ship_agent/data/cache_store/semantic_cache.faiss
+2025-11-03 11:41:28,157 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-03 11:41:31,034 - INFO - Use pytorch device_name: cpu
+2025-11-03 11:41:31,037 - INFO - Loading faiss with AVX2 support.
+2025-11-03 11:41:31,055 - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-03 11:41:31,058 - INFO - [index_manager] Loaded FAISS index from /home/minh/project/ship_agent/data/cache_store/semantic_cache.faiss
+2025-11-03 11:42:42,584 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-03 11:43:12,067 - INFO - Use pytorch device_name: cpu
+2025-11-03 11:43:12,070 - INFO - Loading faiss with AVX2 support.
+2025-11-03 11:43:12,083 - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-03 11:43:12,086 - INFO - [index_manager] Loaded FAISS index from /home/minh/project/ship_agent/data/cache_store/semantic_cache.faiss
+2025-11-03 11:44:12,414 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-03 11:44:15,552 - INFO - Use pytorch device_name: cpu
+2025-11-03 11:44:15,555 - INFO - Loading faiss with AVX2 support.
+2025-11-03 11:44:15,571 - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-03 11:44:15,574 - INFO - [index_manager] Loaded FAISS index from /home/minh/project/ship_agent/data/cache_store/semantic_cache.faiss
+2025-11-03 11:50:19,233 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-03 11:50:22,144 - INFO - Loading faiss with AVX2 support.
+2025-11-03 11:50:22,164 - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-03 11:50:22,167 - INFO - [index_manager] Loaded FAISS index from /home/minh/project/ship_agent/data/cache_store/semantic_cache.faiss
+2025-11-03 11:53:19,086 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-03 11:53:22,227 - INFO - Loading faiss with AVX2 support.
+2025-11-03 11:53:22,246 - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-03 11:55:59,325 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-03 11:56:02,877 - INFO - Loading faiss with AVX2 support.
+2025-11-03 11:56:02,889 - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-03 11:56:02,892 - INFO - [index_manager] Created FAISS index
+2025-11-03 11:56:02,892 - INFO - [index_manager] FAISS index saved to data/cache_store/semantic_cache.faiss
+2025-11-03 11:56:02,892 - INFO - [index_manager] FAISS index saved to data/cache_store/semantic_cache.faiss
+2025-11-03 11:56:50,687 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-03 11:56:53,522 - INFO - Loading faiss with AVX2 support.
+2025-11-03 11:56:53,537 - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-03 11:56:53,541 - INFO - [index_manager] Loaded FAISS index from /home/minh/project/ship_agent/data/cache_store/semantic_cache.faiss
+2025-11-03 12:03:00,685 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-03 12:03:04,035 - INFO - Loading faiss with AVX2 support.
+2025-11-03 12:03:04,050 - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-03 12:03:04,053 - INFO - [index_manager] Created FAISS index
+2025-11-03 12:03:04,054 - INFO - Saved FAISS index to data/cache_store/semantic_cache.faiss
+2025-11-03 12:03:04,057 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-03 12:03:06,780 - INFO - Loaded FAISS index from data/cache_store/semantic_cache.faiss
+2025-11-03 12:04:49,714 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-03 12:04:52,949 - INFO - Loading faiss with AVX2 support.
+2025-11-03 12:04:52,968 - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-03 12:04:52,972 - INFO - [index_manager] Created FAISS index
+2025-11-03 12:04:52,972 - INFO - Saved FAISS index to data/cache_store/semantic_cache.faiss
+2025-11-03 12:04:52,975 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-03 12:04:55,902 - INFO - Loaded FAISS index from data/cache_store/semantic_cache.faiss
+2025-11-03 12:26:12,658 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-03 12:26:15,626 - WARNING - Index not found at data/cache_store/semantic_cache.faiss
+2025-11-03 12:26:15,631 - WARNING - [cache] No index found. Cache miss.
+2025-11-03 12:26:15,631 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-03 12:26:18,414 - WARNING - Index not found at data/cache_store/semantic_cache.faiss
+2025-11-03 12:26:18,419 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-03 12:26:21,276 - INFO - Loading faiss with AVX2 support.
+2025-11-03 12:26:21,316 - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-03 12:26:21,320 - INFO - [index_manager] Created FAISS index
+2025-11-03 12:26:21,321 - INFO - Saved FAISS index to data/cache_store/semantic_cache.faiss
+2025-11-03 12:26:21,321 - INFO - [cache] Created new index with initial entry 090554a8-d683-4590-9307-2dd4000462ea
+2025-11-03 12:26:21,321 - INFO - Saved FAISS index to data/cache_store/semantic_cache.faiss
+2025-11-03 12:26:30,188 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-03 12:26:34,267 - INFO - Loading faiss with AVX2 support.
+2025-11-03 12:26:34,286 - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-03 12:26:34,289 - INFO - Loaded FAISS index from data/cache_store/semantic_cache.faiss
+2025-11-03 12:26:34,300 - INFO - [cache] Similarity score: 1.0
+2025-11-03 12:26:34,300 - INFO - [cache] Cache hit
+2025-11-03 12:30:22,108 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-03 12:30:26,302 - INFO - Loading faiss with AVX2 support.
+2025-11-03 12:30:26,322 - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-03 12:30:26,324 - INFO - Loaded FAISS index from data/cache_store/semantic_cache.faiss
+2025-11-03 12:30:26,335 - INFO - [cache] Similarity score: 1.0
+2025-11-03 12:30:26,335 - INFO - [cache] Cache hit
+2025-11-03 12:30:33,064 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-03 12:30:36,538 - INFO - Loaded FAISS index from data/cache_store/semantic_cache.faiss
+2025-11-03 12:30:36,551 - INFO - [cache] Similarity score: 1.0
+2025-11-03 12:30:36,551 - INFO - [cache] Cache hit
+2025-11-03 12:31:10,344 - INFO - AFC is enabled with max remote calls: 10.
+2025-11-03 12:31:17,086 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-03 12:31:18,325 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-03 12:31:22,010 - INFO - Loading faiss with AVX2 support.
+2025-11-03 12:31:22,030 - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-03 12:31:22,033 - INFO - Loaded FAISS index from data/cache_store/semantic_cache.faiss
+2025-11-03 12:31:22,047 - INFO - [cache] Similarity score: -1.0250213146209717
+2025-11-03 12:31:22,047 - INFO - [cache] Cache miss (score too high)
+2025-11-03 12:31:22,328 - INFO - AFC is enabled with max remote calls: 10.
+2025-11-03 12:31:28,453 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-03 12:31:28,494 - INFO - AFC is enabled with max remote calls: 10.
+2025-11-03 12:31:34,048 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-03 12:31:34,219 - INFO - AFC is enabled with max remote calls: 10.
+2025-11-03 12:31:37,666 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-03 12:31:37,731 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-03 12:31:46,376 - INFO - Loaded FAISS index from data/cache_store/semantic_cache.faiss
+2025-11-03 12:31:46,390 - INFO - [cache] Added to existing index with ID 120b1e3b-f513-4b9a-8074-c9663ee8d35b
+2025-11-03 12:31:46,392 - INFO - Saved FAISS index to data/cache_store/semantic_cache.faiss
+2025-11-03 12:33:56,475 - INFO - AFC is enabled with max remote calls: 10.
+2025-11-03 12:34:11,881 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-03 12:34:12,047 - INFO - AFC is enabled with max remote calls: 10.
+2025-11-03 12:34:22,537 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-03 12:34:24,208 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-03 12:34:27,258 - INFO - Loaded FAISS index from data/cache_store/semantic_cache.faiss
+2025-11-03 12:34:27,294 - INFO - [cache] Added to existing index with ID 1c01e6e7-e12a-4194-91a1-34f877a2459a
+2025-11-03 12:34:27,297 - INFO - Saved FAISS index to data/cache_store/semantic_cache.faiss
+2025-11-03 12:35:14,123 - INFO - AFC is enabled with max remote calls: 10.
+2025-11-03 12:35:16,499 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-03 12:35:16,608 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-03 12:35:19,371 - INFO - Loaded FAISS index from data/cache_store/semantic_cache.faiss
+2025-11-03 12:35:19,387 - INFO - [cache] Similarity score: 0.12148582935333252
+2025-11-03 12:35:19,387 - INFO - [cache] Cache miss (score too high)
+2025-11-03 12:35:19,698 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-03 12:35:22,465 - INFO - Loaded FAISS index from data/cache_store/semantic_cache.faiss
+2025-11-03 12:35:22,479 - INFO - [cache] Added to existing index with ID cecf230a-e6a7-4bd6-a8e9-09f175f1a2c2
+2025-11-03 12:35:22,480 - INFO - Saved FAISS index to data/cache_store/semantic_cache.faiss
